@@ -23,7 +23,7 @@ The SVG to PNG Converter is a Python-based desktop application with a graphical 
 1. **Clone or Download the Project**:
    - Clone the repository or download the `main.py` file to your local machine.
    ```bash
-   git clone <https://github.com/gappeah/SVG2PNG.git>
+   git clone <https://github.com/garcane/SVG2PNG.git>
    ```
 
 2. **Install Dependencies**:
